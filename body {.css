@@ -1,0 +1,62 @@
+body {
+  background-color: #ffeef4; /* rosa claro suave */
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  text-align: center; /* centraliza textos conforme pedido anterior */
+}
+
+header {
+  background-color: #f8e1e7;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color: #d63384;
+  margin-bottom: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #d63384;
+  font-weight: bold;
+}
+
+#hero {
+  background-color: #ffeef4;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+#hero h2 {
+  color: #d63384;
+}
+
+.botao {
+  background-color: #d63384;
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 25px;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: #f8e1e7;
+  text-align: center;
+  padding: 20px;
+  color: #555;
+}
+
+body, header, section, footer {
+  text-align: center;
+}
